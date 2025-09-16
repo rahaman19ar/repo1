@@ -1,3 +1,4 @@
 hello world 
-this line will be reverted 
+HEAD
 this is the third coomit
+ parent of 0fad80d (second  commit add a line)
